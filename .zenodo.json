@@ -1,0 +1,29 @@
+{
+    "title": "CLDF Dataset derived from Saenko's \"Annotated Swadesh wordlists for the Romance group\" from 2015",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Mikhail Saenko"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Saenko, M. (2015): Annotated Swadesh wordlists for the Romance group (Indo-European family). In: Starostin GS, editor. The Global Lexicostatistical Database. RGU; 2015. Http://starling.rinet.ru/new100/tuj.xls.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
