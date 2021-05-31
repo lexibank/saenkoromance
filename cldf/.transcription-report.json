@@ -1687,7 +1687,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 116,
+                "+": 115,
                 "a": 38,
                 "b": 18,
                 "b\u02d0": 2,
@@ -6463,7 +6463,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 50,
+                "+": 49,
                 "a": 37,
                 "b": 9,
                 "d": 21,
@@ -14341,7 +14341,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 97,
+                "+": 96,
                 "a": 43,
                 "b": 11,
                 "d": 16,
@@ -18765,16 +18765,8 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "romanian-74_sit-1",
-                "romanian",
-                "74_sit",
-                "a.+._.\u0161.e.d.+.\u02c8e.v.a",
-                "a + + \u0283 e d + \u02c8e v a"
-            ]
-        ],
-        "bad_words_count": 1,
+        "bad_words": [],
+        "bad_words_count": 0,
         "bipa_errors": [],
         "general_errors": 0,
         "invalid_words": [],
@@ -19168,7 +19160,7 @@
         },
         "sclass_errors": [],
         "segments": {
-            "+": 3427,
+            "+": 3424,
             "a": 1463,
             "ai": 1,
             "ao": 1,

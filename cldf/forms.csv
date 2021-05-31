@@ -2155,7 +2155,7 @@ aromanian-48_liver-1,,aromanian,48_liver,ikˈat-ŭ {hicát} ~ ixkˈat-ŭ {ihc
 romanian-48_liver-1,,romanian,48_liver,fikˈat {ficat},f.i.k.ˈa.t,f i k ˈa t,,Saenko2015,,false,^ f . i . k . ˈa . t $,default
 dalmatian-48_liver-1,,dalmatian,48_liver,figˈwot {figu͡ọt},f.i.ɡ.ˈw.o.t,f i ɡ ˈw o t,,Saenko2015,,false,^ f . i . ɡ . ˈw . o . t $,default
 friulian-48_liver-1,,friulian,48_liver,fiˈaːt {fiât},f.i.ˈaː.t,f i ˈaː t,,Saenko2015,,false,^ f . i . ˈaː . t $,default
-gardeneseladin-48_liver-1,,gardeneseladin,48_liver,fuy-ˈa= fˈošk {fuià fosch},f.u.j.+.ˈa.+._.f.ˈo.š.k,f u j + ˈa + + f ˈo ʃ k,,Saenko2015,,false,^ f . u . j . + . ˈa . + . _ . f . ˈo . š . k $,default
+gardeneseladin-48_liver-1,,gardeneseladin,48_liver,fuy-ˈa= fˈošk {fuià fosch},f.u.j.+.ˈa.+._.f.ˈo.š.k,f u j + ˈa + f ˈo ʃ k,,Saenko2015,,false,^ f . u . j . + . ˈa . +._ . f . ˈo . š . k $,default
 fassanoladin-48_liver-1,,fassanoladin,48_liver,fyˈa=nˈeygɛr {fià nẹigher},f.j.ˈa.+.n.ˈe.j.ɡ.ˈɛ.r,f j ˈa + n ˈe j ɡ ˈɛ r,,Saenko2015,,false,^ f . j . ˈa . + . n . ˈe . j . ɡ . ˈɛ . r $,default
 rumantschgrischun-48_liver-1,,rumantschgrischun,48_liver,ɲirˈom {gnirom},ɲ.i.r.ˈo.m,ɲ i r ˈo m,,Saenko2015,,false,^ ɲ . i . r . ˈo . m $,default
 sursilvanromansh-48_liver-1,,sursilvanromansh,48_liver,dir {dir},d.i.r,d i r,,Saenko2015,,false,^ d . i . r $,default
@@ -3417,7 +3417,7 @@ provencaloccitan-105_short-1,,provencaloccitan,105_short,kuɾt {court},k.u.ɾ.t,
 meglenoromanian-74_sit-1,,meglenoromanian,74_sit,șǫt {šɔd},s.o.t,s o t,,Saenko2015,,false,^ s . o . t $,default
 istroromanian-74_sit-1,,istroromanian,74_sit,šed-ˈä {ședę},š.e.d.+.ˈæ,ʃ e d + ˈæ,,Saenko2015,,false,^ š . e . d . + . ˈæ $,default
 aromanian-74_sit-1,,aromanian,74_sit,šˈed-ŭ {șed},š.ˈe.d.+.u,ʃ ˈe d + u,,Saenko2015,,false,^ š . ˈe . d . + . u $,default
-romanian-74_sit-1,,romanian,74_sit,a= šed-ˈea {a ședea},a.+._.š.e.d.+.ˈe.v.a,a + + ʃ e d + ˈe v a,,Saenko2015,,false,^ a . + . _ . š . e . d . + . ˈe . v . a $,default
+romanian-74_sit-1,,romanian,74_sit,a= šed-ˈea {a ședea},a.+._.š.e.d.+.ˈe.v.a,a + ʃ e d + ˈe v a,,Saenko2015,,false,^ a . +._ . š . e . d . + . ˈe . v . a $,default
 dalmatian-74_sit-1,,dalmatian,74_sit,sed-ˈwor {sedu͡ọr} ~ sent-ˈwor {sentu͡ọr},s.e.d.+.ˈw.o.r,s e d + ˈw o r,,Saenko2015,,false,^ s . e . d . + . ˈw . o . r $,default
 friulian-74_sit-1,,friulian,74_sit,staː=sentˈaːt {stâ sentât},s.t.aː.+.s.e.n.t.ˈaː.t,s t aː + s e n t ˈaː t,,Saenko2015,,false,^ s . t . aː . + . s . e . n . t . ˈaː . t $,default
 gardeneseladin-74_sit-1,,gardeneseladin,74_sit,vˈešt-ər=sənt-ˈa {vester sentà},v.ˈe.š.t.+.ə.r.+.s.ə.n.t.+.ˈa,v ˈe ʃ t + ə r + s ə n t + ˈa,,Saenko2015,,false,^ v . ˈe . š . t . + . ə . r . + . s . ə . n . t . + . ˈa $,default
@@ -3701,7 +3701,7 @@ standarditalian-79_stand-1,,standarditalian,79_stand,st-ˈa-re=in=pˈyɛd-i {sta
 grossetoitalian-79_stand-1,,grossetoitalian,79_stand,st-ˈare=in=pˈyɛd-i {stare in piedi},s.t.+.ˈa.r.e.+.i.n.+.p.ˈj.ˈɛ.d.+.i,s t + ˈa r e + i n + p ˈj ˈɛ d + i,,Saenko2015,,false,^ s . t . + . ˈa . r . e . + . i . n . + . p . ˈj . ˈɛ . d . + . i $,default
 neapolitan-79_stand-1,,neapolitan,79_stand,st-ˈa=alːˈyert-ə {stà allierta} ~ st-ˈa=alːˈert-ə {stà allerta},s.t.+.ˈa.+.a.lː.ˈj.e.r.t.+.ə,s t + ˈa + a lː ˈj e r t + ə,,Saenko2015,,false,^ s . t . + . ˈa . + . a . lː . ˈj . e . r . t . + . ə $,default
 logudorese-79_stand-1,,logudorese,79_stand,ist-ˈa-re=a=sa=rˈicː-a {istare a sa ritza},i.s.t.+.ˈa.+.r.e.+.a.+.s.a.+.r.ˈi.tːs.+.a,i s t + ˈa + r e + a + s a + r ˈi tːs + a,,Saenko2015,,false,^ i . s . t . + . ˈa . + . r . e . + . a . + . s . a . + . r . ˈi . tːs . + . a $,default
-campidanese-79_stand-1,,campidanese,79_stand,abarː-ˈay=i= βˈey {abarrai in pei},a.b.a.rː.+.ˈa.j.+.i.+._.β.ˈe.j,a b a rː + ˈa j + i + + β ˈe j,,Saenko2015,,false,^ a . b . a . rː . + . ˈa . j . + . i . + . _ . β . ˈe . j $,default
+campidanese-79_stand-1,,campidanese,79_stand,abarː-ˈay=i= βˈey {abarrai in pei},a.b.a.rː.+.ˈa.j.+.i.+._.β.ˈe.j,a b a rː + ˈa j + i + β ˈe j,,Saenko2015,,false,^ a . b . a . rː . + . ˈa . j . + . i . +._ . β . ˈe . j $,default
 palermitansicilian-79_stand-1,,palermitansicilian,79_stand,st-ˈa-ɾi=a=gɾˈitːa {stari a gritta},s.t.+.ˈa.+.ɾ.i.+.a.+.ɡ.ɾ.ˈi.tː.a,s t + ˈa + ɾ i + a + ɡ ɾ ˈi tː a,,Saenko2015,,false,^ s . t . + . ˈa . + . ɾ . i . + . a . + . ɡ . ɾ . ˈi . tː . a $,default
 messinesesicilian-79_stand-1,,messinesesicilian,79_stand,st-ˈa-ɾɨ=a=ɖːɽˈitːa {stari addritta},s.t.+.ˈa.+.ɾ.ɨ.+.a.+.ɖː.ɽ.ˈi.tː.a,s t + ˈa + ɾ ɨ + a + ɖː ɽ ˈi tː a,,Saenko2015,,false,^ s . t . + . ˈa . + . ɾ . ɨ . + . a . + . ɖː . ɽ . ˈi . tː . a $,default
 cataniansicilian-79_stand-1,,cataniansicilian,79_stand,st-ˈa-ɾi=a=dːˈitːa {stari additta} ~ st-ˈa-ɾi=a=ɖːɽˈitːa {stari addritta},s.t.+.ˈa.+.ɾ.i.+.a.+.dː.ˈi.tː.a,s t + ˈa + ɾ i + a + dː ˈi tː a,,Saenko2015,,false,^ s . t . + . ˈa . + . ɾ . i . + . a . + . dː . ˈi . tː . a $,default
