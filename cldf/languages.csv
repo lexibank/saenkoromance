@@ -1,6 +1,6 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-meglenoromanian,Megleno_Romanian,megl1237,Megleno Romanian,ruq,Eurasia,41.1174,22.3782,Indo-European
-istroromanian,Istro_Romanian,istr1245,Istro Romanian,ruo,Eurasia,45.433,14.2,Indo-European
+meglenoromanian,Megleno_Romanian,megl1237,Megleno-Romanian,ruq,Eurasia,41.1174,22.3782,Indo-European
+istroromanian,Istro_Romanian,istr1245,Istro-Romanian,ruo,Eurasia,45.433,14.2,Indo-European
 aromanian,Aromanian,arom1237,Aromanian,rup,Eurasia,40.616,21.2,Indo-European
 romanian,Romanian,roma1327,Romanian,ron,Eurasia,46.3913,24.2256,Indo-European
 dalmatian,Dalmatian,dalm1243,Dalmatian,dlm,Eurasia,42.7095,18.0238,Indo-European
